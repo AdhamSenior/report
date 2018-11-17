@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/css/elements/accordion.css";
+@import "assets/css/elements/animate.css";
+@import "assets/css/elements/box.css";
+@import "assets/css/elements/breadcrumb.css";
+@import "assets/css/elements/buttons.css";
+@import "assets/css/elements/calltoaction.css";
+@import "assets/css/elements/carousel.css";
+@import "assets/css/elements/flipbox.css";
+@import "assets/css/elements/form.css";
+@import "assets/css/elements/heading.css";
+@import "assets/css/elements/image-caption.css";
+@import "assets/css/elements/link-effects.css";
+@import "assets/css/elements/list.css";
+@import "assets/css/elements/member.css";
+@import "assets/css/elements/modal.css";
+@import "assets/css/elements/note.css";
+@import "assets/css/elements/post-grid.css";
+@import "assets/css/elements/pricing-tables.css";
+@import "assets/css/elements/progress-bar.css";
+@import "assets/css/elements/services.css";
+@import "assets/css/elements/social-share.css";
+@import "assets/css/elements/table.css";
+@import "assets/css/elements/tabs.css";
+@import "assets/css/elements/testimonial.css";
+@import "assets/css/elements/timeline.css";
+@import "assets/css/demo.css";
